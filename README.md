@@ -1,4 +1,4 @@
-# Segmenting Consumers of Bath Soap
+# Customer Market Segmentation Analysis 
 
 ### Key Problems
 CRISA has traditionally segmented markets on the basis of purchaser demographics. They would now like to segment the market based on two key sets of variables more directly related to the purchase process and to brand loyalty:
